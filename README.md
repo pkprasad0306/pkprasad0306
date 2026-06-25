@@ -3,7 +3,7 @@ B.Tech Computer Engineering, Class of 2026 | Building AI-first, production-grade
 I focus on computer vision, full-stack development, and LLM-integrated systems — projects built with real-world deployment in mind, not just academic exercises. Actively looking for AI Engineer / Forward Deployed Engineer roles.
 
 🚀 Featured Projects
-🎥 Sentinel-2 — Face Recognition Attendance System
+🎥 Sentinel: An AI Campus Management System
 Real-time attendance system using RetinaFace/ArcFace for face detection and recognition over RTSP camera streams.
 FastAPI Next.js Expo React Native MongoDB
 
