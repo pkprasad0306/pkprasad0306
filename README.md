@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Prasad 👋
+B.Tech Computer Engineering, Class of 2026 | Building AI-first, production-grade applications
+I focus on computer vision, full-stack development, and LLM-integrated systems — projects built with real-world deployment in mind, not just academic exercises. Actively looking for AI Engineer / Forward Deployed Engineer roles.
 
-<!--
-**pkprasad0306/pkprasad0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
+🎥 Sentinel-2 — Face Recognition Attendance System
+Real-time attendance system using RetinaFace/ArcFace for face detection and recognition over RTSP camera streams.
+FastAPI Next.js Expo React Native MongoDB
 
-Here are some ideas to get you started:
+🎤 AI Mock Interview Platform
+LLM-powered avatar interviewers with dynamic question generation and real-time answer analysis.
+MERN LLM Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages: Python, TypeScript, JavaScript
+AI/ML: PyTorch, OpenCV, RetinaFace, ArcFace, EfficientNet, Grad-CAM
+Backend: FastAPI, Node.js, MongoDB, Redis, Celery
+Frontend: Next.js, React, React Native (Expo)
+LLM/APIs: Claude API, Google Gemini API
